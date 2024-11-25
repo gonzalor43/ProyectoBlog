@@ -52,18 +52,15 @@ El proyecto utiliza la metodología **BEM** para mantener el código CSS organiz
 ## 🚀 Vista Previa  
 
 ### 🎨 Página de Inicio  
-![Página de Inicio](![image](https://github.com/user-attachments/assets/d2f485e9-7945-4d8b-879b-3c7a42143f4c)
-)  
+![image](https://github.com/user-attachments/assets/d2f485e9-7945-4d8b-879b-3c7a42143f4c)
+
 
 ### 🎨 Sobre nosotros  
-![Página de Inicio](![image](https://github.com/user-attachments/assets/fa5047e8-581f-4f62-81af-a7463f97ee6e)
-)
-)  
+![image](https://github.com/user-attachments/assets/fa5047e8-581f-4f62-81af-a7463f97ee6e)
+
 
 ### 🎨 Contacto
-![Página de Inicio](![image](https://github.com/user-attachments/assets/312829aa-d844-4942-a62b-634b07c894a6)
-)
-)  
+![image](https://github.com/user-attachments/assets/312829aa-d844-4942-a62b-634b07c894a6)
 
 ---
 
